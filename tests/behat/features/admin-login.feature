@@ -3,6 +3,7 @@ Feature: Login as an administrator (no-js)
   I want basic login behavior to work
   So that I can administer the site
 
+
   Scenario: Confirm access to create users
     Given I am logged in as an admin
     When I am on the Dashboard
